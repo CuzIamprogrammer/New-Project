@@ -1,4 +1,5 @@
 {    "author": "Ethan Vaz",
+	"description": "What a cute description",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
