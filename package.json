@@ -12,5 +12,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"keywords": ["freeCodeCamp", "freecodecamp","FREECODECAMP"]
+	"keywords": ["freeCodeCamp", "freecodecamp","FREECODECAMP"],
+	"license": "BEAST"
 }
