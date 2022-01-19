@@ -2,7 +2,7 @@
 	"description": "What a cute description",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"moment": "2.10.2",
+		"moment": "~2.10.2",
 		"express": "^4.14.0"
 	},
 	"version": "2.7.7",
